@@ -51,6 +51,7 @@
   top: 64px;
   right: 0px;
   background-color: #2f80ed;
+  z-index: 0;
 }
 
 .header__title{
@@ -58,6 +59,7 @@
   line-height: 96px;
   font-weight: 600;
   max-width: 730px;
+  z-index: 2;
 }
 
 .header__subtitle{
@@ -95,6 +97,8 @@
 
 .two-columns__brief{
   width: 175px;
+  margin-top: 0px;
+  margin-bottom: 0px;
   line-height: 1.2;
   font-size: 18px;
   font-weight: normal;
