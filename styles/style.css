@@ -78,6 +78,7 @@
   line-height: 25px;
   font-size: 18px;
   color: #2f80ed;
+  z-index: 2;
 }
 
 .decription{
@@ -255,7 +256,7 @@
   padding-bottom: 90px;
 }
 
-.table__theme_dark{
+.table_theme_dark{
   list-style: none;
   margin: 0 auto;
   padding: 0;
