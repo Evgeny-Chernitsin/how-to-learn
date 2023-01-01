@@ -1,4 +1,12 @@
 .cards__item {
   width: 240px;
+  margin-top: 60px;
 }
 
+.cards__item:nth-of-type(4){
+  margin-top: 0;
+}
+
+.cards__item:nth-of-type(5){
+  margin-top: 0;
+}
